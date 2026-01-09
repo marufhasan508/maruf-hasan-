@@ -1,0 +1,7 @@
+{
+  "name": "Lumina: English Coach",
+  "description": "An AI-powered English speaking practice app featuring a friendly robot tutor that provides real-time feedback on grammar and language accuracy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
